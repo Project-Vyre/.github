@@ -1,4 +1,8 @@
-## Hi there 👋
+# Welcome to Vyre
+
+This organization contains software for Vyre's projects such as the website and our Minecraft modpacks. Stay tuned for more!
+
+Below is some placeholder text from the template that I'm trying to figure out what would be best to put here.
 
 <!--
 
