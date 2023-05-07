@@ -2,7 +2,7 @@
 
 This organization contains software for Vyre's projects such as the website and our Minecraft modpacks. Stay tuned for more!
 
-## Minecraft Modpack
+## Minecraft Modpack(s)
 * Finality - [CurseForge](https://www.curseforge.com/minecraft/modpacks/finality) | [Website](https://project-vyre.github.io/mc-web/) (work in progress because Jekyll theming is not cooperating with me)
 
 Below is some placeholder text from the template that I'm trying to figure out what would be best to put here. Edit: nevermind, it actually does not show up... well then.
