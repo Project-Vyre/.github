@@ -8,7 +8,7 @@ This organization contains software for Vyre's projects such as the website and 
 * Finality Tau (Currently on MC 1.19.2, horror variant) - [CurseForge](https://curseforge.com/minecraft/modpacks/finality-tau)
 * Finality Genesis (Currently on MC 1.19.2, lightweight variant) - [CurseForge](https://www.curseforge.com/minecraft/modpacks/finality-genesis) (if it 404's, then CF has not approved it yet.)
 
- [Finality Modpack Series Wiki](https://project-vyre.github.io/mc-web/) (work in progress because Jekyll theming is not cooperating with me)
+ [Finality Modpack Series Wiki](https://project-vyre.github.io/finality-wiki) (work in progress because Jekyll theming is not cooperating with me)
 
 Below is some placeholder text from the template that I'm trying to figure out what would be best to put here. Edit: nevermind, it actually does not show up... well then.
 
