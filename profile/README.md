@@ -2,6 +2,9 @@
 
 This organization contains software for Vyre's projects such as the website and our Minecraft modpacks. Stay tuned for more!
 
+## Another Create Wiki
+Lighter than the original Fandom Wiki, created with Jekyll. Work in progress!
+Access it here: https://project-vyre.github.io/another-create-wiki/
 
 ## Minecraft Modpack(s)
 * Finality - [CurseForge](https://www.curseforge.com/minecraft/modpacks/finality)
