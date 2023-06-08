@@ -8,11 +8,11 @@ Access it here: https://project-vyre.github.io/another-create-wiki/
 
 ## Minecraft Modpack(s)
 * Finality - [CurseForge](https://www.curseforge.com/minecraft/modpacks/finality)
-  * Currently on MC 1.18.2, the largest variant
+  * Currently on MC 1.18.2, the largest variant.
 * Finality Tau  - [CurseForge](https://curseforge.com/minecraft/modpacks/finality-tau)
-  * Currently on MC 1.19.2, horror variant
+  * Currently on MC 1.19.2, horror focused variant.
 * Finality Genesis  - [CurseForge](https://www.curseforge.com/minecraft/modpacks/finality-genesis) (if it 404's, then CF has not approved it yet.)
-  * Currently on MC 1.19.2, lightweight variant
+  * Currently on MC 1.19.2, lightweight variant, most computers should be able to run this with the exception of older i3 CPU generations.
 
  [Finality Modpack Series Wiki](https://project-vyre.github.io/finality-wiki) (work in progress because Jekyll theming is not cooperating with me)
 
