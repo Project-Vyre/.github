@@ -1,10 +1,12 @@
-# Welcome to Vyre
+# Welcome to Project Vyre
 
 This organization contains software for Vyre's projects such as the website and our Minecraft modpacks. Stay tuned for more!
 
 ## [Another Create Wiki](https://project-vyre.github.io/another-create-wiki/)
 Lighter than the original Fandom Wiki, created with Jekyll. Work in progress and still adding more entries! Also adding documentation for how to customize the Create experience.
 Access it here if you don't want to click on the header: https://project-vyre.github.io/another-create-wiki/
+
+Want to contribute? Here is the GitHub repository for the wiki: https://github.com/Project-Vyre/another-create-wiki
 
 ## Minecraft Modpack(s)
 
@@ -17,6 +19,8 @@ Access it here if you don't want to click on the header: https://project-vyre.gi
 
 ## [Finality Modpack Series Wiki](https://project-vyre.github.io/finality-wiki) 
 Currently a work in progress because Jekyll theming is not cooperating with me and the fact the modpack is in development. Here's the link if you don't want to click on the header: https://project-vyre.github.io/finality-wiki
+
+Want to contribute? Here is the GitHub repository for the wiki: https://github.com/Project-Vyre/finality-wiki
 
 ---
 
