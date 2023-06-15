@@ -10,7 +10,7 @@ Want to contribute? Here is the GitHub repository for the wiki: https://github.c
 
 ## Minecraft Modpack(s)
 
-| Name | Minecraft Version | Mod Loader | Description | Downloads |
+| Name | Minecraft Version(s) | Mod Loader | Description | Downloads |
 | ---- | ----------------- | ---------- | ----------- | -------- |
 | Finality | 1.18.2 | Forge | Pushing Create to its limits with a side of magic, boss fights and integrated industrialization. | [CurseForge](https://www.curseforge.com/minecraft/modpacks/finality) |
 | Finality Tau | 1.19.2 | Forge | The second variant of Finality. Pushing Create to its limit while surviving the horrors of the night. Good luck! | [CurseForge](https://curseforge.com/minecraft/modpacks/finality-tau) |
