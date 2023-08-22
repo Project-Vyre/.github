@@ -29,7 +29,7 @@ Currently a work in progress because Jekyll theming is not cooperating with me a
 
 | Name | Minecraft Version(s) | Mod Loader(s) | Description | Downloads |
 | ---- | -------------------- | ------------- | ----------- | --------- |
-| Placeholder | 1.20x | Fabric | Since the majority of boss mods on Fabric disappoint us, we have decided to make our own. | Placeholder |
+| Placeholder | 1.20x | NeoForge, Fabric | Since the majority of boss mods on Fabric disappoint us, we have decided to make our own. Native KubeJS and REI integration planned. Bosses are not the only addition, however. | Placeholder |
 
 Want to contribute? Here is the GitHub repository for the wiki: https://github.com/Project-Vyre/finality-wiki
 
