@@ -23,15 +23,16 @@ Want to contribute? Here is the GitHub repository for the wiki: https://github.c
 ## [Finality Modpack Series Wiki](https://project-vyre.github.io/finality-wiki) 
 Currently a work in progress because Jekyll theming is not cooperating with me and the fact the modpack is in development. Here's the link if you don't want to click on the header: https://project-vyre.github.io/finality-wiki
 
+Want to contribute? Here is the GitHub repository for the wiki: https://github.com/Project-Vyre/finality-wiki
 ---
 
 ## Minecraft Mod(s)
 
 | Name | Minecraft Version(s) | Mod Loader(s) | Description | Downloads |
 | ---- | -------------------- | ------------- | ----------- | --------- |
-| Placeholder | 1.20x | NeoForge, Fabric | Since the majority of boss mods on Fabric disappoint us, we have decided to make our own. Native KubeJS and REI integration planned. Bosses are not the only addition, however. | Placeholder |
+| Placeholder | 1.20x+ | NeoForge | Since the majority of boss mods on Fabric disappoint us, we have decided to make our own. Native KubeJS, REI / JEI integration planned. Bosses are not the only addition, however. | Placeholder |
+| Placeholder | 1.20x+ | NeoForge | A bit of world building for Create and Minecraft. | Placeholder |
 
-Want to contribute? Here is the GitHub repository for the wiki: https://github.com/Project-Vyre/finality-wiki
 
 <!--
 
