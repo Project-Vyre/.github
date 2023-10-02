@@ -24,6 +24,7 @@ Want to contribute? Here is the GitHub repository for the wiki: https://github.c
 Currently a work in progress because Jekyll theming is not cooperating with me and the fact the modpack is in development. Here's the link if you don't want to click on the header: https://project-vyre.github.io/finality-wiki
 
 Want to contribute? Here is the GitHub repository for the wiki: https://github.com/Project-Vyre/finality-wiki
+
 ---
 
 ## Minecraft Mod(s)
