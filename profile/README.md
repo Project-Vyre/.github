@@ -31,8 +31,8 @@ Want to contribute? Here is the GitHub repository for the wiki: https://github.c
 
 | Name | Minecraft Version(s) | Mod Loader(s) | Description | Downloads |
 | ---- | -------------------- | ------------- | ----------- | --------- |
-| Placeholder | 1.20x+ | Fabric, NeoForge | Since the majority of boss mods on Fabric disappoint us, we have decided to make our own. Native KubeJS, REI / JEI integration planned. Bosses are not the only addition, however. | Placeholder |
-| Placeholder | 1.20x+ | Fabric, NeoForge | A bit of world building for Create and Minecraft. | Placeholder |
+| Placeholder | 1.21x+ | NeoForge | Since the majority of boss mods on Fabric disappoint us, we have decided to make our own. Native KubeJS, REI / JEI integration planned. Bosses are not the only addition, however. | Placeholder |
+| Placeholder | 1.21x+ | NeoForge | A bit of world building for Create and Minecraft. | Placeholder |
 
 
 <!--
