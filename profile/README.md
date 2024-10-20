@@ -17,8 +17,7 @@ Want to contribute? Here is the GitHub repository for the wiki: https://github.c
 | Finality | 1.18.2 | Forge | Pushing Create to its limits with a side of magic, boss fights and integrated industrialization. | [CurseForge](https://www.curseforge.com/minecraft/modpacks/finality) |
 | Finality Tau | 1.19.2 | Forge | The second variant of Finality. Pushing Create to its limit while surviving the horrors of the night. Good luck! | [CurseForge](https://curseforge.com/minecraft/modpacks/finality-tau) |
 | Finality Genesis | 1.19.2 | Forge | Pushing Create to its limits, with a tighter focus. | [CurseForge](https://www.curseforge.com/minecraft/modpacks/finality-genesis) |
-| Finality Mote | 1.19.2 | Forge | The lightest variant with an even tighter focus on Create while providing an enhanced Minecraft experience. | [CurseForge](https://www.curseforge.com/minecraft/modpacks/finality-mote)
-| Finality Turbillion | 1.20.2 | NeoForge | Planned for Modrinth release. | N/A |
+| Finality Mote | 1.19.2 | Forge | The lightest variant with an even tighter focus on Create while providing an enhanced Minecraft experience. | [CurseForge](https://www.curseforge.com/minecraft/modpacks/finality-mote) |
 
 ## [Finality Modpack Series Wiki](https://project-vyre.github.io/finality-wiki) 
 Currently a work in progress because Jekyll theming is not cooperating with me and the fact the modpack is in development. Here's the link if you don't want to click on the header: https://project-vyre.github.io/finality-wiki
